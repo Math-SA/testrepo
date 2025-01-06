@@ -1,0 +1,64 @@
+Main:
+	Dev
+https://www.coursera.org/professional-certificates/devops-and-software-engineering	 6m x 10
+https://www.coursera.org/professional-certificates/meta-front-end-developer  	7m x6
+
+	Career
+https://www.coursera.org/learn/skills-management (if available)
+https://www.coursera.org/specializations/people-and-soft-skills-for-professional-success
+
+Extra:
+
+https://www.coursera.org/specializations/ibm-cloud-application-development-foundations
+https://www.coursera.org/specializations/aws-devops
+https://www.coursera.org/learn/illinois-tech-cloud-computing-technologies-bit
+
+	EN
+https://www.coursera.org/specializations/american-english-pronunciation
+https://www.coursera.org/specializations/good-with-words
+
+	Dev
+https://www.coursera.org/specializations/test-driven-development
+https://www.coursera.org/specializations/software-engineering	2m x10
+https://www.coursera.org/specializations/software-design-architecture 	1m x10
+https://www.coursera.org/specializations/data-structures-algorithms  	5m x10
+https://www.coursera.org/specializations/cs-fundamentals 	2m x10
+https://www.coursera.org/specializations/software-development-lifecycle 	2m x10
+https://www.coursera.org/specializations/oss-development-linux-git	2m x10
+https://www.coursera.org/specializations/react 	2m x10
+https://www.coursera.org/specializations/secure-coding-practices	2m x10
+https://www.coursera.org/specializations/secure-software-design		1m x10
+
+	Blockchain
+https://www.coursera.org/specializations/blockchain 	2m x10
+https://www.coursera.org/specializations/uci-blockchain
+
+	Automation
+https://www.coursera.org/professional-certificates/google-it-automation		6m x 10
+
+	Cloud
+https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect 2m x10
+https://www.coursera.org/specializations/aws-devops 	1m x10
+
+	AI
+https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering 6m x6
+https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai 	6m x4
+
+	Career
+https://www.coursera.org/learn/cs-tech-interview	
+https://www.coursera.org/specializations/career-success 2m x10
+https://www.coursera.org/specializations/english-interview-resume
+https://www.coursera.org/specializations/wharton-business-foundations
+
+Alt:
+	CUDA
+https://www.coursera.org/specializations/gpu-programming
+	Game dev
+https://www.coursera.org/professional-certificates/epic-games-game-design-professional-certificate
+https://www.coursera.org/specializations/art-for-games
+
+	Android
+https://www.coursera.org/professional-certificates/meta-android-developer
+
+	Mainframe
+https://www.coursera.org/professional-certificates/ibm-mainframe-developer
